@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="8.409" tests="4" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="8.156" tests="4" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -18,7 +18,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.11\bin"/>
-    <property name="sun.java.command" value="C:\Users\Acer\AppData\Local\Temp\surefire149293880337053221\surefirebooter14050801405721873731.jar C:\Users\Acer\AppData\Local\Temp\surefire149293880337053221 2021-10-13T15-03-19_267-jvmRun1 surefire13921795481024187476tmp surefire_05217629268381763040tmp"/>
+    <property name="sun.java.command" value="C:\Users\Acer\AppData\Local\Temp\surefire9339967713648595475\surefirebooter3956578896476228220.jar C:\Users\Acer\AppData\Local\Temp\surefire9339967713648595475 2021-10-13T17-52-45_096-jvmRun1 surefire17051101541345592463tmp surefire_011513161685414042672tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Acer\eclipse-workspace\LTI\Devops\target\test-classes;C:\Users\Acer\eclipse-workspace\LTI\Devops\target\classes;C:\Users\Acer\.m2\repository\org\testng\testng\7.4.0\testng-7.4.0.jar;C:\Users\Acer\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar;C:\Users\Acer\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar;C:\Users\Acer\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\Acer\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\Acer\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\Acer\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\Acer\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\Acer\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\Acer\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\Acer\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\Acer\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\Acer\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\Acer\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\Acer\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\Acer\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\Acer\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\Acer\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\Acer\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\Acer\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\Acer\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\Acer\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\Acer\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -34,7 +34,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\Acer\AppData\Local\Temp\surefire149293880337053221\surefirebooter14050801405721873731.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Acer\AppData\Local\Temp\surefire9339967713648595475\surefirebooter3956578896476228220.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.11+9-LTS-194"/>
@@ -54,7 +54,7 @@
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="sun.os.patch.level" value=""/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\AdoptOpenJDK\jdk-8.0.292.10-hotspot\bin;C:\Program Files\AdoptOpenJDK\jre-8.0.292.10-hotspot\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\MinGW\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files\AdoptOpenJDK\jre-11.0.6.10-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\dotnet\;C:\FOSSEE\KiCad\bin;C:\FOSSEE\eSim\nghdl\src;C:\FOSSEE\mingw64\bin;C:\FOSSEE\mingw64\msys\bin;C:\FOSSEE\mingw64\GHDL\bin;C:\FOSSEE\ngspice-nghdl\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Selenium\apache-maven-3.8.3-bin\apache-maven-3.8.3\bin;C:\Users\Acer\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\Acer\AppData\Local\Programs\Python\Python39\;C:\Users\Acer\AppData\Local\Microsoft\WindowsApps;C:\Users\Acer\AppData\Local\GitHubDesktop\bin;C:\Users\Acer\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Acer\AppData\Roaming\npm;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Selenium\apache-maven-3.8.3-bin\apache-maven-3.8.3/bin;C:\Program Files\Java\jdk-11.0.11/bin;C:\Program Files\Java\jdk-11.0.11/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\AdoptOpenJDK\jdk-8.0.292.10-hotspot\bin;C:\Program Files\AdoptOpenJDK\jre-8.0.292.10-hotspot\bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\MinGW\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files\AdoptOpenJDK\jre-11.0.6.10-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\dotnet\;C:\FOSSEE\KiCad\bin;C:\FOSSEE\eSim\nghdl\src;C:\FOSSEE\mingw64\bin;C:\FOSSEE\mingw64\msys\bin;C:\FOSSEE\mingw64\GHDL\bin;C:\FOSSEE\ngspice-nghdl\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Selenium\apache-maven-3.8.3-bin\apache-maven-3.8.3\bin;C:\Users\Acer\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\Acer\AppData\Local\Programs\Python\Python39\;C:\Users\Acer\AppData\Local\Microsoft\WindowsApps;C:\Users\Acer\AppData\Local\GitHubDesktop\bin;C:\Users\Acer\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Acer\AppData\Roaming\npm;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;;."/>
     <property name="java.vendor" value="Oracle Corporation"/>
     <property name="java.vm.info" value="mixed mode"/>
     <property name="java.vm.version" value="11.0.11+9-LTS-194"/>
@@ -64,13 +64,13 @@
   <testcase name="invalidLoginTest" classname="appTest.AppTest" time="0.007"/>
   <testcase name="validLoginTest" classname="appTest.AppTest" time="0"/>
   <testcase name="intcomparsion" classname="appTest.NumberComparison" time="0"/>
-  <testcase name="titleTest" classname="appTest.SeleniumDev" time="1.241">
-    <system-err><![CDATA[Starting ChromeDriver 93.0.4577.63 (ff5c0da2ec0adeaed5550e6c7e98417dac77d98a-refs/branch-heads/4577@{#1135}) on port 44604
+  <testcase name="titleTest" classname="appTest.SeleniumDev" time="1.641">
+    <system-err><![CDATA[Starting ChromeDriver 93.0.4577.63 (ff5c0da2ec0adeaed5550e6c7e98417dac77d98a-refs/branch-heads/4577@{#1135}) on port 26600
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1634117604.003][WARNING]: This version of ChromeDriver has not been tested with Chrome version 94.
-Oct 13, 2021 3:03:24 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1634127768.882][WARNING]: This version of ChromeDriver has not been tested with Chrome version 94.
+Oct 13, 2021 5:52:49 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
   </testcase>
